@@ -24,6 +24,16 @@
   color: white;
 }
 
+.editIcon{
+  width:20px;
+  cursor: pointer;
+}
+
+.deleteIcon{
+  width: 20px;
+  cursor: pointer;
+}
+
 .App-link {
   color: #61dafb;
 }
